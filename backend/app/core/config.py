@@ -18,6 +18,10 @@ class Settings(BaseSettings):
     # Demo Account
     DEMO_EMAIL: str = "demo@gasstation.com"
     DEMO_PASSWORD: str = "demo123"
+    AUTO_SEED_DEMO: bool = True
+
+    # Frontend URL for CORS (set in production)
+    FRONTEND_URL: str = ""
 
     class Config:
         env_file = ".env"
