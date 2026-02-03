@@ -127,6 +127,11 @@ The demo account comes with:
 5. Live demo: Add a new invoice/sale entry
 6. Show how dashboard updates in real-time
 
+## Live Demo
+Frontend: https://gas-station-dashboard1-2.onrender.com
+Backend API: https://gas-station-dashboard.onrender.com
+
+
 ## API Endpoints
 
 | Method | Endpoint | Description |
